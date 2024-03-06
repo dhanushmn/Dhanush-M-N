@@ -1,2 +1,3 @@
 # Dhanush-M-N
-Data Analyst | Business Analyst | Proficient in Ms-Excel, SQL, Tableau, Big Data Analytics Techniques
+Data Analyst | Analyst | Proficient in Ms-Excel, SQL, Power-BI, Tableau, Google Sheets, Google Analytics
+
